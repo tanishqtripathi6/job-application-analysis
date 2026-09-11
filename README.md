@@ -22,6 +22,11 @@ The analysis answers the following questions:
 * Data summarization
 * Basic data visualization
 
+## Monthly Application Trends
+
+![Monthly Job Applications — 2023](monthly_application_trends.png)
+
+
 ## Analysis
 
 The dataset contains 32,596 job applications recorded over one year.
